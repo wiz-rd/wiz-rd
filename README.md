@@ -9,8 +9,8 @@ _A pedantic computer peruser who knows enough to know I don't know much._
 - [API integration/JSON](https://github.com/wiz-rd/Canvas-Desktop-Reminders)
 
 🌱 I'm vaguely familier with:
-- Java
 - JavaScript
+- Java
 - Linux
 - CLIs
 - GitHub
@@ -21,6 +21,7 @@ _A pedantic computer peruser who knows enough to know I don't know much._
 - Linux
 - Learning skills
 - AI _(ethically)_
+  - Other types of Machine Learning
 - Technology
 - And...
 
@@ -31,11 +32,11 @@ _Upending the status quo - not relying solely on tools, languages, or software c
 - FOSS
 - Clean code
 - Fun projects
-- Documentation
+- Good Documentation
 - Growth
 
 🌵 I dislike:
-- JavaScript _(why are semicolons optional??)_
+- JavaScript _(although I can write it)_
 - Sitting still for too long
 - Not challenging myself
 
@@ -52,11 +53,6 @@ _Broad, open, and diverse. Haphazard and hodgepodge; originating from a wide var
 
 And that's all!
 -
-
-_Do not conform. And by doing so, conform. Captive to our illusions of individuality._
-
-_(A comment about how attempting to stand out sometimes causes us to align with others who are attempting to stand out, thus undoing any real standing out at all.)_
-
 <!---
 wiz-rd/wiz-rd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
