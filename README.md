@@ -1,19 +1,19 @@
 Hello, I’m [@wiz-rd](https://github.com/wiz-rd/)
 -
 
-_A pedantic computer peruser who knows enough to know I don't know much._
+_A pedantic computer peruser who knows enough to know there's still much to learn._
 
 🌿 I'm comfortable with:
 - Python
 - Windows
-- [API integration/JSON](https://github.com/wiz-rd/Canvas-Desktop-Reminders)
+- APIs - see [my cross-platform reminder script that notifies you of upcoming assignments using Canvas' API](https://github.com/wiz-rd/Canvas-Desktop-Reminders) and [a game I'm recreating that has its own API](https://github.com/wiz-rd/Rummikub)
 
-🌱 I'm vaguely familier with:
+🌱 I'm familier with:
 - JavaScript
-- Java
 - Linux
-- CLIs
+- CLIs (both batch and bash)
 - GitHub
+- Java
 
 🍃 I'm interested in:
 - Privacy
@@ -23,28 +23,26 @@ _A pedantic computer peruser who knows enough to know I don't know much._
 - AI _(ethically)_
   - Other types of Machine Learning
 - Technology
-- And...
-
-_Upending the status quo - not relying solely on tools, languages, or software created before us when more efficient or better possibilities exist that only have yet to be found or implemented._
+- And, where wise, not relying on the status quo
 
 🍀 I like:
 - Linux
 - FOSS
 - Clean code
 - Fun projects
-- Good Documentation
+- Good documentation
+- Mechanical keyboards
 - Growth
 
 🌵 I dislike:
-- JavaScript _(although I can write it)_
 - Sitting still for too long
 - Not challenging myself
 
-📫 How to reach me:
-_No idea. I think there's an email around here somewhere._
+📫 **How to reach me:**
+No idea. I think there's an email around here somewhere.
 
-⚡ Fun fact:
-_I like absurd words. Such as..._
+⚡ **Fun fact:**
+I like absurd words. Such as...
 
 Eclectic
 -
